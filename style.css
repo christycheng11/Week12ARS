@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Codystar&display=swap');
+body {
+  font-family: helvetica, arial, sans-serif;
+    background: #f8ccd9;
+}
+img {
+  max-width: 100%;
+   margin-top: 30px;
+} 
+h1 {
+  font-style: times new roman;
+  color: #e9658d;
+  text-align: center;  
+}
+p1 {
+position:absolute;
+
+}
+}
+h2 {
+   font-style: times new roman;
+   color:pink;
+   font-size: 20;
+   text-indent: 2em;
+  float: left;
+   
+
+}
+p {
+  font-size: 18
+      float: left;
+    margin-left: 150px;
+  font-family: Indie Flower;
+}
+h3 {
+  font-family: Codystar;
+  color: #e9658d;
+  text-align: center;  
+}
+p2 {
+  color: #e9658d
+  }
+}
+
+header {
+   background: #f8ccd9;
+}
+article {
+
+background: #f3aac0;
+width: 900px;
+height: 175px;
+margin-left:auto;
+margin-right: auto;
+      }
+p3{
+  font-family: Indie Flower;
+}
+.FlexContainer {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    width: 65%;
+    background-color: #f8ccd9;
+    height: 80vh;
+    overflow: auto;
+    flex-direction: row;
+}
+
+.FlexContainer div {
+    width: 750px;
+    height: 500px;
+    margin: 5px;
+    background-color: #f8ccd9;
+}
